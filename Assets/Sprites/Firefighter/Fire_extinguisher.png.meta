@@ -1,0 +1,364 @@
+fileFormatVersion: 2
+guid: ccc4f0daf29a9b94991c2334754c4381
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5264405922597705184
+    second: Fire_extinguisher_0
+  - first:
+      213: -4134315159951172454
+    second: Fire_extinguisher_1
+  - first:
+      213: -4452960779147740621
+    second: Fire_extinguisher_2
+  - first:
+      213: 4964093979761764578
+    second: Fire_extinguisher_3
+  - first:
+      213: -3651359198504295590
+    second: Fire_extinguisher_4
+  - first:
+      213: 4141419649588839064
+    second: Fire_extinguisher_5
+  - first:
+      213: 9192950405991173602
+    second: Fire_extinguisher_6
+  - first:
+      213: 4671991653089474053
+    second: Fire_extinguisher_7
+  - first:
+      213: -3078471400257650650
+    second: Fire_extinguisher_8
+  - first:
+      213: 3866824301324426975
+    second: Fire_extinguisher_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 690
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fire_extinguisher_0
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 6107
+        width: 781
+        height: 1355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ae91694b211f6b0800000000000000
+      internalID: -5264405922597705184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_extinguisher_1
+      rect:
+        serializedVersion: 2
+        x: 2671
+        y: 6106
+        width: 781
+        height: 1396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c199d3446ff96c0800000000000000
+      internalID: -4134315159951172454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_extinguisher_2
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 5677
+        width: 781
+        height: 1560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33af620a3c7e332c0800000000000000
+      internalID: -4452960779147740621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_extinguisher_3
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 3526
+        width: 781
+        height: 1601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8ea577c2104e440800000000000000
+      internalID: 4964093979761764578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_extinguisher_4
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 3895
+        width: 1355
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53ebc99724c35dc0800000000000000
+      internalID: -3651359198504295590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_extinguisher_5
+      rect:
+        serializedVersion: 2
+        x: 4242
+        y: 3895
+        width: 1355
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892c097aa37497930800000000000000
+      internalID: 4141419649588839064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_extinguisher_6
+      rect:
+        serializedVersion: 2
+        x: 5554
+        y: 4182
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed03ea10bbe39f70800000000000000
+      internalID: 9192950405991173602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_extinguisher_7
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1557
+        width: 1355
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 506fcfbb7af36d040800000000000000
+      internalID: 4671991653089474053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_extinguisher_8
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 1844
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620817862921745d0800000000000000
+      internalID: -3078471400257650650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fire_extinguisher_9
+      rect:
+        serializedVersion: 2
+        x: 2459
+        y: 1557
+        width: 1355
+        height: 1232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde5a49f638b9a530800000000000000
+      internalID: 3866824301324426975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fire_extinguisher_0: -5264405922597705184
+      Fire_extinguisher_1: -4134315159951172454
+      Fire_extinguisher_2: -4452960779147740621
+      Fire_extinguisher_3: 4964093979761764578
+      Fire_extinguisher_4: -3651359198504295590
+      Fire_extinguisher_5: 4141419649588839064
+      Fire_extinguisher_6: 9192950405991173602
+      Fire_extinguisher_7: 4671991653089474053
+      Fire_extinguisher_8: -3078471400257650650
+      Fire_extinguisher_9: 3866824301324426975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

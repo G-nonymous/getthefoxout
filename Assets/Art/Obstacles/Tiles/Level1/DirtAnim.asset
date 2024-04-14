@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: DirtAnim
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 5723285912223838801, guid: 8d6c2a13dbe9920429d26df6727b2772, type: 3}
+  - {fileID: 1845996286, guid: 8d6c2a13dbe9920429d26df6727b2772, type: 3}
+  - {fileID: 173293801, guid: 8d6c2a13dbe9920429d26df6727b2772, type: 3}
+  - {fileID: 2002863959, guid: 8d6c2a13dbe9920429d26df6727b2772, type: 3}
+  - {fileID: 1142864158, guid: 8d6c2a13dbe9920429d26df6727b2772, type: 3}
+  - {fileID: -2095358291, guid: 8d6c2a13dbe9920429d26df6727b2772, type: 3}
+  - {fileID: -1734824054, guid: 8d6c2a13dbe9920429d26df6727b2772, type: 3}
+  - {fileID: 1438362076, guid: 8d6c2a13dbe9920429d26df6727b2772, type: 3}
+  - {fileID: 753239587, guid: 8d6c2a13dbe9920429d26df6727b2772, type: 3}
+  - {fileID: 492568656, guid: 8d6c2a13dbe9920429d26df6727b2772, type: 3}
+  - {fileID: -1119712235, guid: 8d6c2a13dbe9920429d26df6727b2772, type: 3}
+  - {fileID: -1105900369, guid: 8d6c2a13dbe9920429d26df6727b2772, type: 3}
+  - {fileID: -139865880, guid: 8d6c2a13dbe9920429d26df6727b2772, type: 3}
+  - {fileID: 1538061925, guid: 8d6c2a13dbe9920429d26df6727b2772, type: 3}
+  - {fileID: 13069233, guid: 8d6c2a13dbe9920429d26df6727b2772, type: 3}
+  - {fileID: -105183291, guid: 8d6c2a13dbe9920429d26df6727b2772, type: 3}
+  m_MinSpeed: 100
+  m_MaxSpeed: 100
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0

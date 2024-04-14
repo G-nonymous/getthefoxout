@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: BurntGrassAnim
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -8764266098602553938, guid: 476b1f9b9b0242f4aa091577eca65cc6, type: 3}
+  - {fileID: -783356616, guid: 476b1f9b9b0242f4aa091577eca65cc6, type: 3}
+  - {fileID: -1046595243, guid: 476b1f9b9b0242f4aa091577eca65cc6, type: 3}
+  - {fileID: 531361300, guid: 476b1f9b9b0242f4aa091577eca65cc6, type: 3}
+  - {fileID: -971818527, guid: 476b1f9b9b0242f4aa091577eca65cc6, type: 3}
+  - {fileID: -1062980551, guid: 476b1f9b9b0242f4aa091577eca65cc6, type: 3}
+  - {fileID: 1637658537, guid: 476b1f9b9b0242f4aa091577eca65cc6, type: 3}
+  - {fileID: 602836472, guid: 476b1f9b9b0242f4aa091577eca65cc6, type: 3}
+  - {fileID: -673471893, guid: 476b1f9b9b0242f4aa091577eca65cc6, type: 3}
+  - {fileID: -1420999997, guid: 476b1f9b9b0242f4aa091577eca65cc6, type: 3}
+  - {fileID: 1287403325, guid: 476b1f9b9b0242f4aa091577eca65cc6, type: 3}
+  - {fileID: 1223629774, guid: 476b1f9b9b0242f4aa091577eca65cc6, type: 3}
+  - {fileID: 2004858630, guid: 476b1f9b9b0242f4aa091577eca65cc6, type: 3}
+  - {fileID: 1652912961, guid: 476b1f9b9b0242f4aa091577eca65cc6, type: 3}
+  - {fileID: 1233586262, guid: 476b1f9b9b0242f4aa091577eca65cc6, type: 3}
+  - {fileID: 531705921, guid: 476b1f9b9b0242f4aa091577eca65cc6, type: 3}
+  m_MinSpeed: 100
+  m_MaxSpeed: 100
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
